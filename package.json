@@ -1,0 +1,42 @@
+{
+  "name": "desafio-03",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/free-brands-svg-icons": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@hookform/resolvers": "^2.9.10",
+    "@types/react-syntax-highlighter": "^15.5.5",
+    "@types/styled-components": "^5.1.26",
+    "axios": "^1.2.1",
+    "date-fns": "^2.29.3",
+    "localforage": "^1.10.0",
+    "match-sorter": "^6.3.1",
+    "phosphor-react": "^1.4.1",
+    "prismjs": "^1.29.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-hook-form": "^7.41.1",
+    "react-markdown": "^8.0.4",
+    "react-router-dom": "^6.4.5",
+    "react-syntax-highlighter": "^15.5.0",
+    "sort-by": "^0.0.2",
+    "styled-components": "^5.3.6",
+    "zod": "^3.20.2"
+  },
+  "devDependencies": {
+    "@types/prismjs": "^1.26.0",
+    "@types/react": "^18.0.26",
+    "@types/react-dom": "^18.0.9",
+    "@vitejs/plugin-react": "^3.0.0",
+    "typescript": "^4.9.3",
+    "vite": "^4.0.0"
+  }
+}
